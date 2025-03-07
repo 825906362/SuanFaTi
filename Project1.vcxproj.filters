@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LIS-742-合唱队形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LIS-2049-蓝桥勇士.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Manacher-1225-最长回文子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01字典树-17205-卓儿的最大异或和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS(剪枝)-2942-数字王国之军训排队.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS(剪枝)-3008-特殊的三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS(剪枝)-3820-混境之地5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd-1260-最大公约数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KMP-1-模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KMP-2047-斤斤计较的小Z.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LCS-1189-最长公共子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="枚举-152-反倍数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="枚举-191-特别数的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="枚举-3227-找到最多的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟-498-回文日期.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟-549-扫雷.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟-551-灌溉.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序(插入)-3225-宝藏排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序(归并)-3226-宝藏排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序(快速)-3226-宝藏排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序(冒泡)-3225-宝藏排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序(选择)-3325-宝藏排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="前缀和-3382-区间次方和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针-1371-回文判定.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针-1372-美丽的区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针-1621-挑选子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索(DFS)-182-小朋友崇拜圈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索(DFS)-1508-N皇后问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心-532-纪念品分组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心-545-谈判.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心-2928-分糖果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心-3412-最小化战斗力差距.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线性DP-1536-数字三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线性DP-3367-破损的楼梯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线性DP-3423-安全序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线性DP-天梯选拔-精灵组队⼤冒险.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字典树-1204-前缀判定.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串hash-2047-斤斤计较的小Z.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="差分-1276-小明的彩灯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="差分-3291-区间更新.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归-1535-斐波那契数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分-364-跳石头.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分-1389-二分查找数组元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分-3404-肖恩的乘法表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分-3683-肖恩的苹果林.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制-1331-二进制中1的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制-3400-异或森林.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制-3691-区间或.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换-1230-进制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换-2095-九进制转十进制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换-2489-进制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵乘法-1550-矩阵相乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
