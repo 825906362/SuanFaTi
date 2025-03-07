@@ -1,3 +1,3 @@
-﻿  LCS-1189-最长公共子序列.cpp
-D:\编程文件\SuanFaTi\LCS-1189-最长公共子序列.cpp(4,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+﻿  LCS-具体子序列.cpp
+D:\编程文件\SuanFaTi\LCS-具体子序列.cpp(6,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
   Project1.vcxproj -> D:\编程文件\SuanFaTi\x64\Debug\Project1.exe

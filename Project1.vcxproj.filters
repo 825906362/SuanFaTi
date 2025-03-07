@@ -171,5 +171,8 @@
     <ClCompile Include="矩阵乘法-1550-矩阵相乘.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LCS-具体子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01字典树-17205-卓儿的最大异或和.cpp" />
+    <ClCompile Include="LCS-具体子序列.cpp" />
     <ClCompile Include="DFS(剪枝)-2942-数字王国之军训排队.cpp" />
     <ClCompile Include="DFS(剪枝)-3008-特殊的三角形.cpp" />
     <ClCompile Include="DFS(剪枝)-3820-混境之地5.cpp" />
