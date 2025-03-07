@@ -27,9 +27,6 @@
     <ClCompile Include="01字典树-17205-卓儿的最大异或和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="DFS(剪枝)-2942-数字王国之军训排队.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
