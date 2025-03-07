@@ -174,5 +174,17 @@
     <ClCompile Include="LCS-具体子序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二维DP-389-摆花.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维DP-3711-选数异或.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维DP-505-数字三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01背包-1174-小明的背包1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
