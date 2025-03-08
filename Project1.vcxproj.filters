@@ -186,5 +186,14 @@
     <ClCompile Include="01背包-1174-小明的背包1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="素数判定-3334-疑似素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="埃氏筛法-3205-小明的素数对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

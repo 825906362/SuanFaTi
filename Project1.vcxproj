@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="01字典树-17205-卓儿的最大异或和.cpp" />
     <ClCompile Include="01背包-1174-小明的背包1.cpp" />
+    <ClCompile Include="1.cpp" />
+    <ClCompile Include="埃氏筛法-3205-小明的素数对.cpp" />
+    <ClCompile Include="素数判定-3334-疑似素数.cpp" />
     <ClCompile Include="LCS-具体子序列.cpp" />
     <ClCompile Include="DFS(剪枝)-2942-数字王国之军训排队.cpp" />
     <ClCompile Include="DFS(剪枝)-3008-特殊的三角形.cpp" />
