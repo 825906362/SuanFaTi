@@ -192,6 +192,21 @@
     <ClCompile Include="埃氏筛法-3205-小明的素数对.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="欧拉筛法-3714-一分为二.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="欧拉筛法-1140-最小质因子之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="唯一分解定理-1-模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="约数个数定理-1020-阶乘约束.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快速幂-1181-数的幂次.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
