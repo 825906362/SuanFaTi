@@ -22,6 +22,7 @@
     <ClCompile Include="01字典树-17205-卓儿的最大异或和.cpp" />
     <ClCompile Include="01背包-1174-小明的背包1.cpp" />
     <ClCompile Include="1.cpp" />
+    <ClCompile Include="费马小定理求逆元-1157-乘法逆元.cpp" />
     <ClCompile Include="唯一分解定理-1-模板.cpp" />
     <ClCompile Include="快速幂-1181-数的幂次.cpp" />
     <ClCompile Include="欧拉筛法-1140-最小质因子之和.cpp" />
@@ -83,6 +84,7 @@
     <ClCompile Include="进制转换-1230-进制转换.cpp" />
     <ClCompile Include="进制转换-2095-九进制转十进制.cpp" />
     <ClCompile Include="进制转换-2489-进制.cpp" />
+    <ClCompile Include="逆元-3932-获胜的概率.cpp" />
     <ClCompile Include="递归-1535-斐波那契数列.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

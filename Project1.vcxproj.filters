@@ -207,6 +207,12 @@
     <ClCompile Include="快速幂-1181-数的幂次.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="费马小定理求逆元-1157-乘法逆元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="逆元-3932-获胜的概率.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
