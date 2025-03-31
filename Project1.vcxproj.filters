@@ -213,7 +213,19 @@
     <ClCompile Include="逆元-3932-获胜的概率.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="贪心-找零问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1-4995-小蓝的决议.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1-字符串-鸡哥的奇特密码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="枚举-4145-鸡哥的蛋糕大作战.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3790-对称排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
